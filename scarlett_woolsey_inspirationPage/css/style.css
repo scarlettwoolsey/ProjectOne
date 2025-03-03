@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: #F0F0F2;
     margin-top: 50px;
     margin-left: 200px;
     margin-right: 200px;
@@ -77,7 +77,7 @@ a {
 }
 
 .pics {
-    margin: 25px 50px 10px 125px;
+    margin: 25px 50px 10px 100px;
 }
 
 .content {
